@@ -1,4 +1,4 @@
-package com.lasalle.mdpa.lgarci.propertycross.database.components;
+package com.lasalle.mdpa.lgarci.propertycross.database.component;
 
 import java.util.List;
 
