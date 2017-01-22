@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PropertyCross</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="placeholder_search">Dirección, ciudad, código postal...</string>
+    <string name="search">Buscar</string>
+    <string name="sell">Venta</string>
+    <string name="rent">Alquiler</string>
+    <string name="search_error_message">Inserta correctamente los datos en el campo de búsqueda</string>
 </resources>
