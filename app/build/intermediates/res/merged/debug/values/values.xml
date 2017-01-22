@@ -1009,7 +1009,12 @@
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="place_autocomplete_clear_button">Clear search</string>
     <string name="place_autocomplete_search_hint">Search</string>
+    <string name="placeholder_search">Dirección, ciudad, código postal...</string>
+    <string name="rent">Alquiler</string>
+    <string name="search">Buscar</string>
+    <string name="search_error_message">Inserta correctamente los datos en el campo de búsqueda</string>
     <string name="search_menu_title">Search</string>
+    <string name="sell">Venta</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>

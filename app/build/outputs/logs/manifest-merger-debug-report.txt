@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:2:1-43:12
 	package
 		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:3:5-52
 		INJECTED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/
 	android:name
 		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:12:5-40:19
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:12:5-41:19
 MERGED from [com.google.android.gms:play-services:10.0.1] /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/10.0.1/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/AndroidManifest.xml:26:5-19
@@ -83,32 +83,30 @@ MERGED from [com.android.support:support-compat:25.1.0] /Users/FurruPi/Documents
 		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:14:9-43
 	android:theme
 		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:17:9-40
-activity#com.lasalle.mdpa.lgarci.propertycross.MainActivity
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:18:9-24:20
+activity#com.lasalle.mdpa.lgarci.propertycross.activity.init.InitActivity
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:18:9-23:20
 	android:name
-		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:18:19-47
+		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:18:19-61
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
 ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
 		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.lasalle.mdpa.lgarci.propertycross.activity.main.MainActivity
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:25:19-61
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:33:9-35:55
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:37:9-39:55
 	android:value
-		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:35:13-52
+		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:39:13-52
 	android:name
-		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:34:13-58
-activity#com.lasalle.mdpa.lgarci.propertycross.MapsActivity
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:37:9-39:68
-	android:label
-		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:39:13-56
-	android:name
-		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:38:13-41
+		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml:38:13-58
 uses-sdk
 INJECTED from /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:10.0.1] /Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/10.0.1/AndroidManifest.xml:4:5-42

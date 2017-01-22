@@ -1,0 +1,7 @@
+#Sun Jan 22 20:26:38 CET 2017
+base.0=/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0cf8add82252e66d934e7c9b2c99e3338306d701
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01ce7441f05e5799ef77b3bcca8f42065a68f14f/classes.dex
+base.1=/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01ce7441f05e5799ef77b3bcca8f42065a68f14f
+file.0=/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0cf8add82252e66d934e7c9b2c99e3338306d701/classes.dex

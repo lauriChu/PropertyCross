@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_8a5827e99e4ebe8efc888654a03a5c63313bcfd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_8ab6413d1271b101bf0a9ddb213e687e9e1f8b46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_1550b9f32554e11b2a9cf6e5b7f2b6c1bff3d275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_c8e8b2990f3eead26409ef22597ccc00fcb0e186/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_2cb1bf2f404dca2c24b6aacdc14d6c2e1f498cbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_653c53d554768457341e5f9effc873deb6cd7d69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_4686b335927a83376f802043a6bf2583cb7264e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_1eae2f0137fecf94e2002ed5f6315b4cd964d5e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_be3977dbf56b8ef48ca9924b1dc02f152fbce92f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_dae230a40eb4e732824caec66b3edb818f4a8caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07bc9df551a72af6c844de6e83916ad731a7878">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0cf8add82252e66d934e7c9b2c99e3338306d701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_84cb5fbf2fe2823231fed6fbd29f5b326035f1f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_fccd5901a20540647223e185da8d23a63987bdd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_c4002fb71cb2ab881453ff5ec967a4462a11ef27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_44bcccdf8d48b7f8e21b52e5c1bb86dd63c8c882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_3dab2642b26074fb216c689f1d25e318b459afaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_a2387e822af88c3dc9b9c10fdb5f3b676c03fe14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_14ddac5f42fafdb850a9dcfa9a641a4ea5f7a4a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f2a28d6de8b20d97022fddf6c000ece6b2d88a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_c2aca64b32cd81bfac1d16a5d3a72e8dfca6b047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_78d5dd588a19bc2899fc99818d3bcfcacad1ce06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_910ac2e29c1b3ae6c3e93ad993feb869c7d7c0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_70adf4170e5d2113b62719571bfd09e59391eecc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f9ba3e6969f0ed66a6c3b9b529ddd0f550199ea">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01ce7441f05e5799ef77b3bcca8f42065a68f14f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_e6ee560235ee6965841691ccaa7bef76fc184776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_1b0c236b601fd9f8b397c5c09f95d3fa17047f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_d5b3db955ed24efb9277b6c9de994eda09d3663f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_1628564a5cbe8d7f00b0f4858d2c199a6737aab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_5b29bb21775ceb9203cb51394f6b0e5cd31c2ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_1724e6d3f1e82757022477913f1bd35c7a4f936b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_e2f57f6f69eb47edd0cfe7b800c624c5028fe215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_949f0acc625d68ec5a07a44999b1b8d3308281c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_242da8f5c70bcc4727f280c0054a3e697233877e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_6531e8906f0ff72ccdcf150992ef3ea31cf33c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_8b6473f5b38786bc032a7bf08615fe43aa0ae4e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_249a76cd1716cb066bc479d203abb6d159afb896/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_99556515fa0dc2b190d7a9b9efab3511c9956620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_b69915bf14b35ba5ac3e39e51a6e75fa988d03fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_bcb924af4a99eb81b4b142d50058840395ed6310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_99bc7bd46dacc34852f1d68252f5715985dc4af2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_fb40d9195b4332100bf1f702db3639f3e0a3e13d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_78b1fb633bacc9510e50efe3f783db7ca9208c1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_0e84d788a71eeb1edff4ca31feb13150c55747aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_affdfea713bb51905b376d4d7cc26a71cff6abc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_bd402a83802824c797e0c0f625ac437f6e5b9010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_d5e382841c3fa52449a8b1b60f22e985840bdc33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_766e4bd012419ba5dd7932c74f344c89a7c63f84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_3efa0d2bfab8f61cbdbfc4ffac5ae2493473463b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_305c93bd5804cc8e53164aee8a0201e553bce8b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_6d8261bdb55751df35cfaaa507acd1bdee3fa8cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_708445c1c4ef70221a220411851f0094ff562417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_77c66b385aa2cf5bdc671165493f42644f7e3843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_30ee992922f4accc0871ac02122688c56b5266e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_773f8c3e6ce671255c425e185d9ef26e1dac1900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_9171938e371cd497cf205af2dc27f9474f9558aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_5804ced665ef29a6feb09dd9d0a4020697c4a027/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_addccf6b8d9dbe033994a18477f220449fec4a48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_2011b26243d7bacff7c74b8e5ef1f891fe04beb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_c4ac82ad3d3e3d0f2d6776cddf6b618cf8dd9bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_c6fafd0433c1a519d01f3dbb25695c1ca6fb0679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_2579dee2c8408cc9d97b0551cc62b42aad8fc46d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_e44ac7e6fa135239ce7da563c7ea879faaf8e495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_9237f1aff9ad0ca573fbff7d52b819467fdf0548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_18c170baf3d024437b3c3635aefce90901b04b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_44fec970b4afb31b5c04425c9772f3f0ef969772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_8f3e0f1b21e3749f0f9c44f4295751352dcb2ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_a67f748fbe9b7dfc292655714b86a76c1d8b0457/classes.dex" />
+    </item>
+
+</items>

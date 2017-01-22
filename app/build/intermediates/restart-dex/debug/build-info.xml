@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="65495234642561"
+    token="-4990080363103835743"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="135" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="14" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="64140686493278"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="65398100855445"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="65495234642561"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/FurruPi/Documents/MDPA/Android/Projects/PropertyCross/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

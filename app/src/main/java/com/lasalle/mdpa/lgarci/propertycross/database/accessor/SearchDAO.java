@@ -5,7 +5,7 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.lasalle.mdpa.lgarci.propertycross.database.components.Where;
+import com.lasalle.mdpa.lgarci.propertycross.database.component.Where;
 import com.lasalle.mdpa.lgarci.propertycross.database.model.DataBaseModel;
 import com.lasalle.mdpa.lgarci.propertycross.database.model.SearchVO;
 
